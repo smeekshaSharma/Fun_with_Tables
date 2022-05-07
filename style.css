@@ -1,0 +1,15 @@
+.whole {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("images/fun.jfif");
+    font-family: 'Sniglet', cursive;
+    background-size: contain;
+}
+
+img {
+    margin-left: 400px;
+    margin-top: -900px;
+}
+
+#btn:hover {
+    background-color: white;
+    color: #e68a00;
+}
